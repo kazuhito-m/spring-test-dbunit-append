@@ -17,7 +17,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * MySQL専用「DBの制約(CONSTRAINT)をON/OFFするオペレーションクラス。</br>
+ * MySQL専用「DBの制約(CONSTRAINT)をON/OFFする」オペレーションクラス。</br>
  * 
  * コンストラクタにて制御し,true:on, false:off
  */

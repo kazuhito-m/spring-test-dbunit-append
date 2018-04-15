@@ -3,7 +3,6 @@ package com.github.kazuhito_m.fw.db;
 import com.github.kazuhito_m.fw.category.DatabaseTests;
 import com.github.kazuhito_m.fw.custom.dbunit.CustomDatabaseOperationLookup;
 import com.github.kazuhito_m.fw.custom.poi.XlsxDataSetWriter;
-import com.github.kazuhito_m.fw.custom.spring_test_dbunit.ExcelDataSetLoader;
 import com.github.springtestdbunit.TransactionDbUnitTestExecutionListener;
 import com.github.springtestdbunit.annotation.DbUnitConfiguration;
 
